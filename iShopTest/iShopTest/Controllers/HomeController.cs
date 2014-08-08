@@ -10,7 +10,7 @@ namespace iShopTest.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "iShop GitHub";
+            ViewBag.Message = "New Test";
 
             return View();
         }
